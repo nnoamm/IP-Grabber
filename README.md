@@ -1,6 +1,6 @@
 # Discord
 
-- Soon
+- https://discord.gg/5htQqK87
 
 
 # Installation
